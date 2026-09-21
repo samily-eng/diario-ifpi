@@ -1,0 +1,6 @@
+Nome: Samily Maria
+Curso: Técnico em Informática - IFPI
+Turma: 3° Ano Informática
+Cidade: -
+Objetivo: Aprender Git e GitHub para trabalhar em projetos colaborativos.
+Hobby: Ouvir música
