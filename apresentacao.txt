@@ -4,3 +4,4 @@ Turma: 3° Ano Informática
 Cidade: -
 Objetivo: Aprender Git e GitHub para trabalhar em projetos colaborativos.
 Hobby: Ouvir música
+Curso extra: Introdução ao GitHub
